@@ -1,6 +1,5 @@
 
 ; ============================================================
-; - Group C12
 ; - LCD Dual-Page UI (no flashing cursor) + RESET button
 ; - Start/Stop pulses from UI: start_pulse / stop_pulse
 ; - Reset pulse from UI: reset_pulse (also forces stop + clears elapsed)
