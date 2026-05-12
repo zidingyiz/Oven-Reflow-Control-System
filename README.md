@@ -1,7 +1,5 @@
 # Oven Reflow Control System
 
-ELEC 291 Project 1, Group C12.
-
 This repository contains the source code and project materials for a microcontroller-based oven reflow control system. The controller runs on a MAX10/8051-compatible platform and manages a solder reflow profile using temperature feedback, a finite-state machine, LCD controls, seven-segment display output, UART communication, SSR power control, and buzzer feedback.
 
 ## Features
