@@ -21,7 +21,7 @@ This repository contains the source code and project materials for a microcontro
 
 | File | Description |
 | --- | --- |
-| `main.asm` | Main assembly source for the oven reflow controller. |
+| `Main.asm` | Main assembly source for the oven reflow controller. |
 | `video presentation link.txt` | YouTube link for the project presentation/demo. |
 
 ## Hardware Notes
