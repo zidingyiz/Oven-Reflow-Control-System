@@ -21,10 +21,8 @@ This repository contains the source code and project materials for a microcontro
 
 | File | Description |
 | --- | --- |
-| `C12.asm` | Main assembly source for the oven reflow controller. |
-| `Group C12 - ELEC291 project 1 report-1.pdf` | Project report. |
+| `main.asm` | Main assembly source for the oven reflow controller. |
 | `video presentation link.txt` | YouTube link for the project presentation/demo. |
-| `*.jpg` | Project photos and hardware/demo images. |
 
 ## Hardware Notes
 
