@@ -37,7 +37,7 @@ The assembly source is written for the course MAX10/8051 environment and uses th
 
 ## Build Notes
 
-`C12.asm` includes the course support files:
+`Main.asm` includes the course support files:
 
 - `LCD_4bit_DE10Lite_no_RW.inc`
 - `math32.asm`
