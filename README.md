@@ -764,44 +764,6 @@ A significant part of the project involved integration and debugging rather than
 
 ---
 
-# What We Learned
-
-This project was our first experience integrating several real-time embedded subsystems into one controller written almost entirely in assembly language.
-
-The most important lessons were:
-
-- Designing finite-state machines for physical systems
-- Writing interrupt-driven embedded software
-- Avoiding blocking control structures
-- Handling UART reception safely using buffering
-- Integrating analog and digital electronics
-- Validating sensors against external measurement equipment
-- Accounting for real component tolerances rather than ideal values
-- Debugging hardware and software together
-- Designing safety behaviour for a system controlling an AC load
-- Coordinating development and integration across a team
-
-The complete project required approximately **55 team-hours** outside normal scheduled laboratory time.
-
----
-
-# Possible Future Improvements
-
-Several extensions could improve the system further:
-
-- Replace the fixed 22°C cold-junction approximation with a calibrated temperature sensor
-- Store reflow profiles in non-volatile memory
-- Add automatic serial-port detection to the Python GUI
-- Add configurable sampling frequency
-- Display FSM state directly in the PC application
-- Plot target and measured reflow profiles simultaneously
-- Add over-temperature shutdown independent of the normal FSM
-- Add thermocouple open-circuit detection
-- Replace breadboard wiring with a dedicated PCB
-- Add PID or closed-loop temperature regulation instead of fixed 0/20/100% heater control
-
----
-
 # Course
 
 Developed as **Project 1: Reflow Oven Controller** for:
