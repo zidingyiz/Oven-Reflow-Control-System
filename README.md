@@ -55,7 +55,7 @@ The completed system combines:
 ## System Architecture
 
 <p align="center">
-  <img src="docs/images/system_block_diagram.png" width="800">
+  <img src="docs/images/system_block_diagram.png" width="600">
 </p>
 
 The overall system is divided into four major functional blocks:
