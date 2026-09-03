@@ -417,9 +417,6 @@ A PC-side application was developed using:
 - Matplotlib
 - CSV
 
-<p align="center">
-  <img src="docs/images/uart_gui.png" width="700">
-</p>
 
 The GUI allows the user to:
 
@@ -480,11 +477,6 @@ The buzzer scheduler is also non-blocking so sound generation does not interrupt
 # Temperature Validation
 
 Temperature measurement accuracy was experimentally validated against laboratory measurement equipment.
-
-<p align="center">
-  <img src="docs/images/temperature_validation.png" width="750">
-</p>
-
 The thermocouple was heated over a wide temperature range and the embedded-system measurement was compared against a reference measurement.
 
 ### Final Validation Result
