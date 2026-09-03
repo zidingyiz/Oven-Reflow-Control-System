@@ -7,7 +7,7 @@ The system uses a **DE10-Lite FPGA running a CV-8052 processor**, with the main 
 In addition to the core oven controller, the project includes an LCD user interface, seven-segment temperature display, pushbutton controls, UART communication, a Python monitoring GUI, real-time temperature plotting, CSV logging, and buzzer feedback.
 
 <p align="center">
-  <img src="./docs/images/hardware_setup.jpg" width="750">
+  <img src="./docs/images/hardware_setup.jpg" width="500">
 </p>
 
 <p align="center">
